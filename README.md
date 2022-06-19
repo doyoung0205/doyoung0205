@@ -1,6 +1,4 @@
-클린 코드, 테스트, 리팩토링은 나중에 여유가 생길 때나 추구할 수 있는 꿈같은 것이 아니다. 
-<br/>
-소프트웨어의 변화에 유연하게 대응하고 싶고, 자기 발전을 꿈꾸는 개발자
+
 ![Doyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung0205&show_icons=false&bg_color=30,4776E6,8E54E9&title_color=fff&text_color=fefefe)
 <!--
 **doyoung0205/doyoung0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+클린 코드, 테스트, 리팩토링은 나중에 여유가 생길 때나 추구할 수 있는 꿈같은 것이 아니다. 
+소프트웨어의 변화에 유연하게 대응하고 싶고, 자기 발전을 꿈꾸는 개발자 🌱
