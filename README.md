@@ -4,6 +4,6 @@
 ![Doyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung0205&theme=slateorange&show_icons=true)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/doyoung0205/daily-book-read-n-write">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doyoung0205&repo=daily-book-read-n-write&theme=slateorange" />
 </a>
