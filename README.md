@@ -1,5 +1,8 @@
 
-![Doyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung0205&show_icons=false&bg_color=30,4776E6,8E54E9&title_color=fff&text_color=fefefe)
+<!-- ![Doyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung0205&show_icons=false&bg_color=30,4776E6,8E54E9&title_color=fff&text_color=fefefe) -->
+
+![Doyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoung0205&theme=slateorange&show_icons=true)
+
 <!--
 **doyoung0205/doyoung0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
